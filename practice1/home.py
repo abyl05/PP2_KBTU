@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hello city!")
+print("Hello home!")
+print("Hello kitty!")
+print("Hello Abylaikhan!")
